@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
 "product=gimp&keywords=I18N+L10N&component=general\n"
 "POT-Creation-Date: 2013-09-28 16:01+0000\n"
-"PO-Revision-Date: 2013-12-30 09:49+0530\n"
+"PO-Revision-Date: 2013-12-30 10:15+0530\n"
 "Last-Translator: Roshan Lal Gumasta (AniSecrets) <info@anisecrets.com>\n"
 "Language-Team: Hindi <fedora-trans-hi@redhat.com>\n"
 "Language: hi\n"
@@ -15211,7 +15211,6 @@ msgstr "फ़्लोटिंग चयन खिसकाएं"
 
 #: ../app/tools/gimpeditselectiontool.c:454
 #: ../app/tools/gimpeditselectiontool.c:731
-#, fuzzy
 msgid "Move: "
 msgstr "खिसकाएं: "
 
@@ -16085,7 +16084,6 @@ msgid "Reverse"
 msgstr "विपरीत"
 
 #: ../app/tools/gimppaintoptions-gui.c:339
-#, fuzzy
 msgid "Color Options"
 msgstr "रंग विकल्प"
 
