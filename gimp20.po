@@ -6,10 +6,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gimp.HEAD\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
-"product=gimp&keywords=I18N+L10N&component=general\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gimp&keywords=I18N+L10N&component=general\n"
 "POT-Creation-Date: 2013-09-28 16:01+0000\n"
-"PO-Revision-Date: 2013-12-30 10:15+0530\n"
+"PO-Revision-Date: 2014-02-08 17:44+0500\n"
 "Last-Translator: Roshan Lal Gumasta (AniSecrets) <info@anisecrets.com>\n"
 "Language-Team: Hindi <fedora-trans-hi@redhat.com>\n"
 "Language: hi\n"
@@ -17,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
-"X-Generator: Poedit 1.6.3\n"
+"X-Generator: Easy Po 0.9.4\n"
 
 #: ../desktop/gimp.desktop.in.in.h:1 ../app/about.h:26
 msgid "GNU Image Manipulation Program"
@@ -1084,10 +1083,9 @@ msgid "Open the device status dialog"
 msgstr "उपकरण स्थिति संवाद खोलें"
 
 #: ../app/actions/dialogs-actions.c:64
-#, fuzzy
 msgctxt "dialogs-action"
 msgid "_Layers"
-msgstr "(_L)ayers"
+msgstr "परतें(_L)"
 
 #: ../app/actions/dialogs-actions.c:65
 msgctxt "dialogs-action"
@@ -5993,16 +5991,14 @@ msgid "Edit this tool preset"
 msgstr "इस उपकरण पूर्वनिर्धारित संपादित करें"
 
 #: ../app/actions/tools-actions.c:46
-#, fuzzy
 msgctxt "tools-action"
 msgid "_Tools"
-msgstr "तंत्र(_T)"
+msgstr "यंत्र(_T)"
 
 #: ../app/actions/tools-actions.c:47
-#, fuzzy
 msgctxt "tools-action"
 msgid "_Selection Tools"
-msgstr "(_S)election उपकरण"
+msgstr "चयन उपकरण(_S)"
 
 #: ../app/actions/tools-actions.c:48
 #, fuzzy
