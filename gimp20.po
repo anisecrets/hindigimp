@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: gimp.HEAD\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gimp&keywords=I18N+L10N&component=general\n"
 "POT-Creation-Date: 2013-09-28 16:01+0000\n"
-"PO-Revision-Date: 2014-02-08 17:44+0500\n"
+"PO-Revision-Date: 2014-08-24 07:09+0500\n"
 "Last-Translator: Roshan Lal Gumasta (AniSecrets) <info@anisecrets.com>\n"
 "Language-Team: Hindi <fedora-trans-hi@redhat.com>\n"
 "Language: hi\n"
@@ -290,9 +290,8 @@ msgid "Dialogs"
 msgstr "संवाद"
 
 #: ../app/actions/actions.c:136
-#, fuzzy
 msgid "Dock"
-msgstr "डॉक"
+msgstr "कठघरा"
 
 #: ../app/actions/actions.c:139
 #, fuzzy
@@ -1597,7 +1596,7 @@ msgstr "स्वत:"
 #, fuzzy
 msgctxt "dockable-action"
 msgid "Loc_k Tab to Dock"
-msgstr "डॉक करने के लिए Loc(_k) टैब"
+msgstr "कठघरा करने के लिए Loc(_k) टैब"
 
 #: ../app/actions/dockable-actions.c:128
 #, fuzzy
@@ -1630,10 +1629,9 @@ msgid "M_ove to Screen"
 msgstr "M(_o)ve स्क्रीन करने के लिए"
 
 #: ../app/actions/dock-actions.c:49
-#, fuzzy
 msgctxt "dock-action"
 msgid "Close Dock"
-msgstr "डॉक को बंद करें"
+msgstr "कठघरा को बंद करें"
 
 #: ../app/actions/dock-actions.c:54
 #, fuzzy
@@ -3488,9 +3486,8 @@ msgid "Split Gradient Segments Uniformly"
 msgstr "ग्रेडियेंट खंडों को समान रूप से विभाजित"
 
 #: ../app/actions/gradient-editor-commands.c:573
-#, fuzzy
 msgid "Split"
-msgstr "अलगाना"
+msgstr "विखंडन"
 
 #: ../app/actions/gradient-editor-commands.c:595
 msgid ""
@@ -3863,7 +3860,7 @@ msgstr "(_G)rayscale"
 #, fuzzy
 msgctxt "image-convert-action"
 msgid "Convert the image to grayscale"
-msgstr "करने के लिए ग्रेस्केल छवि में कनवर्ट"
+msgstr "करने के लिए स्वेत श्यामातर छवि में कनवर्ट"
 
 #: ../app/actions/image-actions.c:160
 #, fuzzy
@@ -4114,9 +4111,8 @@ msgstr "छवि आकार बदलें"
 #: ../app/pdb/image-cmds.c:527 ../app/pdb/item-transform-cmds.c:534
 #: ../app/pdb/layer-cmds.c:386 ../app/pdb/layer-cmds.c:433
 #: ../app/pdb/transform-tools-cmds.c:346 ../app/tools/gimpscaletool.c:119
-#, fuzzy
 msgid "Scaling"
-msgstr "स्केलिंग"
+msgstr "प्रवर्धन"
 
 #: ../app/actions/images-actions.c:43
 msgctxt "images-action"
@@ -4802,9 +4798,8 @@ msgid "Set Layer Boundary Size"
 msgstr "परत सीमा का आकार जमाएं"
 
 #: ../app/actions/layers-commands.c:665
-#, fuzzy
 msgid "Scale Layer"
-msgstr "स्केल परत"
+msgstr "प्रवर्धन परत"
 
 #: ../app/actions/layers-commands.c:703
 #, fuzzy
@@ -5757,7 +5752,6 @@ msgid "Input _Methods"
 msgstr "इनपुट(_M)ethods"
 
 #: ../app/actions/text-tool-actions.c:58
-#, fuzzy
 msgctxt "text-tool-action"
 msgid "Cu_t"
 msgstr "कट(_t)"
@@ -7036,7 +7030,7 @@ msgstr "नाव के छुपाएँ"
 msgctxt "windows-action"
 msgid ""
 "When enabled docks and other dialogs are hidden, leaving only image windows."
-msgstr "जब सक्षम डॉक्स और अन्य संवादों छिपा हुआ, छोड़कर केवल छवि खिड़कियां हैं।"
+msgstr "जब सक्षम कठघरा्स और अन्य संवादों छिपा हुआ, छोड़कर केवल छवि खिड़कियां हैं।"
 
 #: ../app/actions/windows-actions.c:126
 #, fuzzy
@@ -7306,7 +7300,7 @@ msgid ""
 "This may affect the way your window manager decorates and handles these "
 "windows."
 msgstr ""
-"खिड़की प्रकार संकेत है कि पर व्यवस्थित है खिडकी और उपकरण बॉक्स खिडकी डॉक। यह प्रभावित "
+"खिड़की प्रकार संकेत है कि पर व्यवस्थित है खिडकी और उपकरण बॉक्स खिडकी कठघरा। यह प्रभावित "
 "कर सकता है जिस तरह से अपने खिडकी प्रबंधक सजाता और संभालती है ये खिडकी."
 
 #: ../app/config/gimprc-blurbs.h:154
@@ -7357,7 +7351,7 @@ msgstr ""
 #, fuzzy
 msgid ""
 "Sets the level of interpolation used for scaling and other transformations."
-msgstr "स्केलिंग और अन्य परिवर्तनों के लिए प्रयुक्त प्रक्षेप का स्तर जमाएं।"
+msgstr "प्रवर्धनिंग और अन्य परिवर्तनों के लिए प्रयुक्त प्रक्षेप का स्तर जमाएं।"
 
 #: ../app/config/gimprc-blurbs.h:208
 #, fuzzy
@@ -7605,7 +7599,7 @@ msgstr "गिम्प एक एकल-खिडकी रूप में क
 #: ../app/config/gimprc-blurbs.h:370
 #, fuzzy
 msgid "Hide docks and other windows, leaving only image windows."
-msgstr "डॉक्स और अन्य खिडकी केवल छवि wiखिडकीोड़ने, छिपाना।"
+msgstr "कठघरा्स और अन्य खिडकी केवल छवि wiखिडकीोड़ने, छिपाना।"
 
 #: ../app/config/gimprc-blurbs.h:373
 #, fuzzy
@@ -9405,7 +9399,7 @@ msgstr "बाल्टी भरने"
 #: ../app/core/gimpdrawable.c:525
 msgctxt "undo-type"
 msgid "Scale"
-msgstr "स्केल"
+msgstr "प्रवर्धन"
 
 #: ../app/core/gimpdrawable-equalize.c:52
 msgctxt "undo-type"
@@ -9637,10 +9631,9 @@ msgid "Move Layer Group"
 msgstr "चाल परत समूह"
 
 #: ../app/core/gimpgrouplayer.c:224
-#, fuzzy
 msgctxt "undo-type"
 msgid "Scale Layer Group"
-msgstr "स्केल परत समूह"
+msgstr "प्रवर्धन परत समूह"
 
 #: ../app/core/gimpgrouplayer.c:225
 #, fuzzy
@@ -9849,7 +9842,7 @@ msgstr "छवि परिवर्तित करने के लिए ल�
 #, fuzzy
 msgctxt "undo-type"
 msgid "Convert Image to Grayscale"
-msgstr "करने के लिए ग्रेस्केल छवि में कनवर्ट"
+msgstr "करने के लिए स्वेत श्यामातर छवि में कनवर्ट"
 
 #: ../app/core/gimpimage-convert-type.c:802
 #, fuzzy
@@ -10121,10 +10114,9 @@ msgid "Move Layer"
 msgstr "परत खिसकाएं"
 
 #: ../app/core/gimplayer.c:304
-#, fuzzy
 msgctxt "undo-type"
 msgid "Scale Layer"
-msgstr "स्केल परत"
+msgstr "प्रवर्धन परत"
 
 #: ../app/core/gimplayer.c:305
 #, fuzzy
@@ -11085,7 +11077,7 @@ msgstr "पैमाने पर छवि"
 #: ../app/dialogs/image-scale-dialog.c:205
 #, fuzzy
 msgid "Confirm Scaling"
-msgstr "स्केलिंग की पुष्टि करें"
+msgstr "प्रवर्धन की पुष्टि करें"
 
 #: ../app/dialogs/image-scale-dialog.c:245
 #, c-format
@@ -11099,7 +11091,7 @@ msgstr ""
 #, fuzzy
 msgid ""
 "Scaling the image to the chosen size will shrink some layers completely away."
-msgstr "चुने हुए आकार के लिए छवि स्केलिंग कुछ परतें पूरी तरह से दूर हटना होगा।"
+msgstr "चुने हुए आकार के लिए छवि प्रवर्धनिंग कुछ परतें पूरी तरह से दूर हटना होगा।"
 
 #: ../app/dialogs/image-scale-dialog.c:264
 #, fuzzy
@@ -12665,7 +12657,7 @@ msgstr "सभी संचिका (*. *)"
 #: ../app/dialogs/vectors-import-dialog.c:97
 #, fuzzy
 msgid "Scalable SVG image (*.svg)"
-msgstr "स्केलेबल एसवीजी छवि (*.svg)"
+msgstr "प्रवर्धनेबल एसवीजी छवि (*.svg)"
 
 #: ../app/dialogs/vectors-import-dialog.c:108
 #, fuzzy
@@ -13066,18 +13058,16 @@ msgstr "RGB-अल्फा"
 #: ../app/gegl/gimp-babl.c:255 ../app/gegl/gimp-babl.c:256
 #: ../app/gegl/gimp-babl.c:257 ../app/gegl/gimp-babl.c:258
 #: ../app/gegl/gimp-babl.c:259 ../app/gegl/gimp-babl.c:260
-#, fuzzy
 msgid "Grayscale"
-msgstr "ग्रेस्केल"
+msgstr "स्वेत श्यामातर"
 
 #: ../app/gegl/gimp-babl.c:262 ../app/gegl/gimp-babl.c:263
 #: ../app/gegl/gimp-babl.c:264 ../app/gegl/gimp-babl.c:265
 #: ../app/gegl/gimp-babl.c:266 ../app/gegl/gimp-babl.c:267
 #: ../app/gegl/gimp-babl.c:268 ../app/gegl/gimp-babl.c:269
 #: ../app/gegl/gimp-babl.c:270 ../app/gegl/gimp-babl.c:271
-#, fuzzy
 msgid "Grayscale-alpha"
-msgstr "ग्रेस्केल-अल्फा"
+msgstr "स्वेत श्यामातर-अल्फा"
 
 #: ../app/gegl/gimp-babl.c:273 ../app/gegl/gimp-babl.c:274
 #: ../app/gegl/gimp-babl.c:275 ../app/gegl/gimp-babl.c:276
@@ -14131,7 +14121,7 @@ msgstr "रद्द कर दिया"
 #: ../app/plug-in/plug-in-icc-profile.c:76
 #, fuzzy
 msgid "Can't apply color profile to grayscale image (%s)"
-msgstr "रंग प्रोसंचिका ग्रेस्केल छवि (%s) के लिए लागू नहीं कर सकता"
+msgstr "रंग प्रोसंचिका स्वेत श्यामातर छवि (%s) के लिए लागू नहीं कर सकता"
 
 #: ../app/plug-in/plug-in-icc-profile.c:119
 #: ../app/plug-in/plug-in-icc-profile.c:194
@@ -14800,7 +14790,7 @@ msgstr "निर्यात Colorize सेटिंग्स"
 #: ../app/tools/gimpcolorizetool.c:126
 #, fuzzy
 msgid "Colorize does not operate on grayscale layers."
-msgstr "Colorize ग्रेस्केल परतों पर काम नहीं करती।"
+msgstr "Colorize स्वेत श्यामातर परतों पर काम नहीं करती।"
 
 #: ../app/tools/gimpcolorizetool.c:164
 #, fuzzy
@@ -15518,7 +15508,7 @@ msgstr "एक नया चंगा स्रोत जमाने के क
 #: ../app/tools/gimphistogramoptions.c:127
 #, fuzzy
 msgid "Histogram Scale"
-msgstr "आयत चित्र स्केल"
+msgstr "आयत चित्र प्रवर्धन"
 
 #: ../app/tools/gimphuesaturationtool.c:92
 #, fuzzy
@@ -16407,23 +16397,23 @@ msgstr ""
 
 #: ../app/tools/gimpscaletool.c:90
 msgid "Scale"
-msgstr "स्केल"
+msgstr "प्रवर्धन"
 
 #: ../app/tools/gimpscaletool.c:91
 #, fuzzy
 msgid "Scale Tool: Scale the layer, selection or path"
-msgstr "पैमाने पर उपकरण: स्केल परत, पथ या चयन"
+msgstr "पैमाने पर उपकरण: प्रवर्धन परत, पथ या चयन"
 
 #: ../app/tools/gimpscaletool.c:92
 #, fuzzy
 msgid "_Scale"
-msgstr "स्केल(_S)"
+msgstr "प्रवर्धन(_S)"
 
 #: ../app/tools/gimpscaletool.c:338
 #, fuzzy
 msgctxt "undo-type"
 msgid "Scale to %d x %d"
-msgstr "स्केल करने के लिए %d x %d"
+msgstr "प्रवर्धन करने के लिए %d x %d"
 
 #: ../app/tools/gimpseamlesscloneoptions.c:126
 #, fuzzy
